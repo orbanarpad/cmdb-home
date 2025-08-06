@@ -75,7 +75,7 @@ devices:
 | 1  | 2        | Laptop | hardver  | 2023-01-01     | 250000 | Otthon    |
 | 2  | 2        | Office | szoftver | 2024-01-01     | 35000  | Munkahely |
 
-'''Fájlstruktúra
+'''Fájlstruktúra'''
 cmdb-home/
 ├── backend/
 │   ├── server.js
@@ -90,4 +90,4 @@ cmdb-home/
 └── docs/
     ├── dokumentáció.txt (leírás lásd lent)
     ├── readme.txt (kódmagyarázat itt)
-    └── prezi_short.txt (rövid prezentáció)'''
+'''    └── prezi_short.txt (rövid prezentáció)'''
