@@ -1,4 +1,5 @@
-A beadott projektem neve: cmdb-home, egy egyszerű konfigurációkezelő alkalmazás, amit otthoni felhasználásra terveztem.
+(lépj be szerkeszés módba úgy szebb ;-)
+A projekt neve: cmdb-home, egy egyszerű konfigurációkezelő alkalmazás, amit otthoni felhasználásra terveztem.
 
 A rendszer célja, hogy egy felhasználó nyilvántarthassa a saját számítástechnikai eszközeit – például laptopokat, szoftvereket, előfizetéseket.
 
